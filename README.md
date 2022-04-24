@@ -36,4 +36,6 @@ if you run the other .exe's first, the program will be fucked up, so dont do tha
 After installation a cmd will pop up with 4 options
 
 
+if u have any problem dm me reiusx1#8834
+
 
