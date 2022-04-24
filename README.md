@@ -5,7 +5,7 @@ Then you need requirements
 pyinstaller
 requests
 pystyle
-
+.
 
 
 If u start the bat file the requirements will automatically install for you
