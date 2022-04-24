@@ -17,3 +17,12 @@ After you installed them run the increasebot.exe and thats it
 The link must start with https://vm.tiktok.com/123456789
 Threads amount shold be between 0-100 otherwise your pc will blow up 
 thats it
+
+
+# Installation
+
+first you must run RUN THIS FIRST.BAT
+
+if you run the other .exe's first, the program will be fucked up, so dont do that
+
+After installation a cmd will pop up with 4 options
