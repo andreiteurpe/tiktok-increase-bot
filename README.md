@@ -21,8 +21,19 @@ You need to disable your antivirus beacuse stupid microsoft thinks this is a vir
 
 # Installation
 
-first you must run RUN THIS FIRST.BAT
+FIRST you go to releases and then you want to download tiktoksockets.exe and updatetool.exe
+
+then you move them in the same folder you installed increase bot
+
+then you must run RUN THIS FIRST.BAT
+
+then you go to releases and then you want to download tiktoksockets.exe and updatetool.exe
+
+then you move them in the same folder you installed increase bot
 
 if you run the other .exe's first, the program will be fucked up, so dont do that
 
 After installation a cmd will pop up with 4 options
+
+
+
