@@ -16,7 +16,7 @@ After you installed them run the increasebot.exe and thats it
 
 The link must start with https://vm.tiktok.com/123456789
 Threads amount shold be between 0-100 otherwise your pc will blow up 
-thats it
+You need to disable your antivirus beacuse stupid microsoft thinks this is a virus due to accesing same site every second
 
 
 # Installation
