@@ -7,4 +7,3 @@ echo [40;32mLaunching Increase bot..[40;37m
 timeout 2 >nul
 start increasebot.exe
 start tiktoksockets.exe
-start updatetool.exe
